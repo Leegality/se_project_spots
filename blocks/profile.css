@@ -52,7 +52,7 @@
   font-weight: 500;
 }
 
-.profile__pencile_icon {
+.profile__pencile-icon {
   rotate: -135;
   color: #212121;
 }
@@ -71,7 +71,7 @@
   color: #fcf5e5;
 }
 
-.profile__plus_icon {
+.profile__plus-icon {
   width: 12px;
   height: 12px;
   border: 2px;
